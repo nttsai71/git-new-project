@@ -1,3 +1,3 @@
 console.log('JS added');
 console.log('JS changed');
-console.log('version2');
+console.log('version3');
